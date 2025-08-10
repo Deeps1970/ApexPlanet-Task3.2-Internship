@@ -9,7 +9,7 @@ This app lets users test their knowledge through multiple-choice questions, prov
 
 | Desktop View | Tablet View | Mobile View |
 |----------|----------|----------|
-| ![Desktop](./src/desktop.png)    | ![Tablet](./src/tablet.png)   | ![Mobile](./src/mobile.png)   |
+| ![Desktop](./src/desktop.png)    | ![Tablet](./src/tablet.png)   | ![Mobile](./src/mobilepng.png)   |
 
 ---
 
