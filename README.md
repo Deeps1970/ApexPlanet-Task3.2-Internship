@@ -15,7 +15,7 @@ This app lets users test their knowledge through multiple-choice questions, prov
 
 ## 🌎 Live Demo
 
-- [Click to see the Live Demo](https://deeps1970.github.io/ApexPlanet-Task3.2-Internship/)
+- [Click to see the Live Demo](https://deeps1970.github.io/Quiz-App/)
 
 ---
 
